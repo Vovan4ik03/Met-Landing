@@ -17,4 +17,4 @@ Base Met-Landing is an interactive and visually engaging museum website designed
 - 🎨 SASS (SCSS) – Enhances the styling with modern design.
 - ⚡ JavaScript – Powers interactivity and smooth animations.
 
-# [MET-Landing]( https://vovan4ik1.github.io/Met-Landing/)
+# [MET-Landing]( https://vovan4ik03.github.io/Met-Landing/)
